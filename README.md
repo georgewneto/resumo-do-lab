@@ -25,3 +25,12 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
   - até 3 zonas
 - contas de armazenamento
   - replicação dos dados entre datacenters e regiões
+- sistema operacional (imagem / arquitetura)
+  - tamanho e valor mensal
+  - necessário configurar: discos / redes / monitoramento
+ 
+# Banco de dados
+  - criação de servidor
+  - autenticação
+  - armazenamento do backup
+  - previsão de custo mensal
